@@ -36,7 +36,7 @@ To run the texet web application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Chat_Web_App.git
+   git clone https://github.com/anvay69/texet.git
    ```
 
 2. Install the required dependencies:
